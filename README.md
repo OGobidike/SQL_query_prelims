@@ -1,4 +1,4 @@
-🎵 Chinook Database SQL Analysis Project
+###🎵 Chinook Database SQL Analysis Project
 
 
 🚀 Project Overview
