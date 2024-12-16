@@ -5,9 +5,9 @@ Step into the role of a data analyst for the Chinook online music store! This pr
 
 🛠️ Tools and Technologies
 * SQL: Querying and data analysis
-SQLite: Database management
-Pandas: Data transformation
-Plotly: Interactive data visualization
+* SQLite: Database management
+* Pandas: Data transformation
+* Plotly: Interactive data visualization
 
 📊 Key Insights and Analysis
 
